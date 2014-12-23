@@ -25,10 +25,10 @@
 
 Скриншоты:
 
-.. figure:: screenshot_001.png
+.. image:: screenshot_001.png
    :scale: 50 %
    
 ----
 
-.. figure:: screenshot_002.png
+.. image:: screenshot_002.png
    :scale: 50 %
