@@ -3,12 +3,12 @@
 
 Шаблон LibreOffice для технических руководств(Technical Guides Template)
 
-Шаблоны руководств:
+Шаблоны руководств (Templates):
 
 * EN-guide-template.ott
 * RU-guide-template.ott 
 
-Примеры:
+Примеры (Examples):
 
 * EN-guide-template.odt
 * RU-guide-template.odt
