@@ -22,3 +22,6 @@
 
 * PT Serif ([http://www.paratype.ru/public/](http://www.paratype.ru/public/))
 * DejaVu
+
+.. figure:: screenshot_001.png
+   :scale: 60%
