@@ -23,7 +23,7 @@
 * PT Serif (http://www.paratype.ru/public/)
 * DejaVu
 
-Скриншоты:
+**Скриншоты:**
 
 .. image:: screenshot_001.png
    :scale: 50 %
