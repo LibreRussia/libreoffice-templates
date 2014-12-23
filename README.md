@@ -12,3 +12,8 @@
 
 * EN-guide-template.odt
 * RU-guide-template.odt
+
+Шрифты (Fonts):
+
+* PT Serif ([http://www.paratype.ru/public/](http://www.paratype.ru/public/))
+* DejaVu
