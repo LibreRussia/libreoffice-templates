@@ -23,6 +23,13 @@
 * PT Serif (http://www.paratype.ru/public/)
 * DejaVu
 
+**Авторские права (Copyright):**
+
+To the extent possible under law, Dmitry Mazhartsev has waived all copyright and related or neighboring rights to Technical Guides Template for LibreOffice. This work is published from: Russian Federation. 
+
+.. image:: cc-zero.svg
+   :align: center
+
 **Скриншоты:**
 
 .. image:: screenshot_001.png
